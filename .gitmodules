@@ -1,0 +1,6 @@
+[submodule "uORFs"]
+	path = uORFs
+	url = https://github.com/ImperialCardioGenetics/uORFs
+[submodule "exac_2015"]
+	path = exac_2015
+	url = https://github.com/macarthur-lab/exac_2015
